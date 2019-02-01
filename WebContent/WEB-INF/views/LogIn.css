@@ -1,0 +1,46 @@
+html,body{
+	
+	height: 100%;
+}
+
+.container{
+	
+	display:inline-flex;
+	justify-content: center;
+	align-items: center;
+	height: 100%;
+}
+
+h1{
+	text-align: center;
+	
+	}
+
+#idVisibleItems{
+	display: block;
+	
+	text-align: center;
+}
+
+#tableCourse{
+	
+	margin: auto;
+	width: 50%;
+
+
+}
+
+#myTable{
+	
+	margin: auto;
+	width: 50%;
+
+
+}
+
+#btnCourse{
+	text-align: right;
+	padding-bottom: 10px;
+	
+}
+
